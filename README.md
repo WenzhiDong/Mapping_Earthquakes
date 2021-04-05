@@ -17,7 +17,7 @@ I will use the Leaflet library to plot the data on a Mapbox map through an API r
 
 By changing tile layers, you can choose different styles of the map.
 
-By changing overlays: you can choose to hide unwanted data.
+By changing overlays, you can choose to hide unwanted data.
 
 ## Screenshot 
 ![dark](screen.png)

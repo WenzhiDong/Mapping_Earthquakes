@@ -12,9 +12,10 @@ I will use the JavaScript and the D3.js library to retrieve the coordinates and 
 I will use the Leaflet library to plot the data on a Mapbox map through an API request and create interactivity for the earthquake data.
 
 ## Layers
- - three tile layers,"dark", "satellite" and "street"
- - 'AllEarthquakes', "TectonicPlates", "Major Earthquake" as an Overlays
-
+ - Three tile layers: "dark", "satellite" and "street"
+ - Three Overlays: 'AllEarthquakes', "TectonicPlates", "Major Earthquake"
+By changing tile layers, you can choose different styles of the map.
+By changing overlays: you can choose to hide unwanted data.
 ## Screenshot 
-![screen](screen.png)
+![dark](screen.png)
 

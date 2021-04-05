@@ -1,8 +1,9 @@
 # Mapping_Earthquakes
 
-create three tile layers,
+## Layers
+ -create three tile layers,"dark", "satellite" and "street".
+ -add 'AllEarthquakes', "TectonicPlates", "Major Earthquake" as an Overlays
 
-
-#screenshot 
+## Screenshot 
 ![screen](screen.png)
 
